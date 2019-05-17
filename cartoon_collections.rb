@@ -11,7 +11,7 @@ end
 
 def long_planeteer_calls(blah)
   
-  blah
+  blah.any?
   
 end
 
