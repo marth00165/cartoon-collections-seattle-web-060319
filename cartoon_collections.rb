@@ -11,7 +11,7 @@ end
 
 def long_planeteer_calls(blah)
   
-  blah.any?{|biggie|}
+  blah.any?{|biggie| biggie.length > 4}
   
 end
 
