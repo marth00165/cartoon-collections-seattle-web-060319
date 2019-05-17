@@ -6,7 +6,7 @@ def roll_call_dwarves(blah)
 end
 
 def summon_captain_planet(blahBlah)
-  blahBlah.map{smalls }
+  blahBlah.map{|smalls| }
 end
 
 def long_planeteer_calls(blah)
